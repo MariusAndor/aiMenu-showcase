@@ -8,19 +8,14 @@ Multi-tenant SaaS that turns one deployment into a hosted menu + ordering system
 
 
 **Admin dashboard** — full operations view: live tables, sessions, orders
-![Admin dashboard](docs/screenshots/01-admin-dashboard.png)
 
 **Public menu** — what a customer sees after scanning the QR code
-![Public menu](docs/screenshots/02-public-menu.png)
 
 **Shared cart** — same cart, multiple devices, one table
-![Shared cart](docs/screenshots/03-shared-cart.png)
 
 **Design presets** — classic / modern / minimalist, swappable per tenant
-![Design presets](docs/screenshots/04-design-presets.png)
 
 **Table sessions** — admin activating a table so customers can order
-![Table sessions](docs/screenshots/05-table-sessions.png)
 
 ---
 
